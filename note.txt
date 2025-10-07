@@ -1,3 +1,6 @@
 - Giúp theo dõi và quản lý các thay đổi trong mã nguồn một cách hiệu quả.
 - Hỗ trợ làm việc nhóm với khả năng phân nhánh và hợp nhất mã nguồn.
 - Giúp người phát triển kiểm soát phiên bản của phần mềm trong suốt quá trình phát triển.
+- Cập nhật thêm cảm nhận về Git:
+- Git giúp tôi làm việc hiệu quả hơn trong các dự án phần mềm.
+- Hệ thống phân nhánh của Git giúp dễ dàng thử nghiệm tính năng mới mà không ảnh hưởng đến mã chính.
