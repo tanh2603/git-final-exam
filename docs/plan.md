@@ -15,3 +15,4 @@ Kế hoạch chi tiết:
 nothing to commit, working tree clean, , .
 3. Thực hành giải quyết xung đột khi merge nhánh.
 4. Tạo dự án trên GitHub và đẩy mã nguồn lên GitHub.
+
