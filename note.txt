@@ -1,0 +1,3 @@
+- Giúp theo dõi và quản lý các thay đổi trong mã nguồn một cách hiệu quả.
+- Hỗ trợ làm việc nhóm với khả năng phân nhánh và hợp nhất mã nguồn.
+- Giúp người phát triển kiểm soát phiên bản của phần mềm trong suốt quá trình phát triển.
