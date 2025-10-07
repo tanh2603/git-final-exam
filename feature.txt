@@ -1,0 +1,4 @@
+Tính năng mới:
+1. Thêm chức năng đăng nhập bằng Google.
+2. Tích hợp API để lấy thông tin người dùng từ Google.
+3. Giao diện người dùng thân thiện hơn, dễ dàng sử dụng hơn.
