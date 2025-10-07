@@ -1,4 +1,8 @@
-Hello, this is <Họ Tên>
+<<<<<<< HEAD
+Hello, this is Nguyễn Quốc Tánh
+=======
+Xin chào, tôi là Nguyễn Quốc Tánh
+>>>>>>> feature-update
 Tên: Nguyễn Quốc Tánh
 Tuổi: 21
 Trường: Đại học Nam Cần Thơ
